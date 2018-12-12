@@ -1,0 +1,14 @@
+*.VC.db
+Wack_A_Mole/Intermediate/
+Wack_A_Mole/Binaries/
+Wack_A_Mole/DerivedDataCache/
+Wack_A_Mole/Build/
+Wack_A_Mole/Saved/
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Wack_A_Mole/.vs/
