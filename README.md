@@ -5,7 +5,8 @@ Wack_A_Mole by c++ & blueprint in Unreal Engine 4.21.1
 
 Instructions for checking blueprint:
 1. Download Epic Game Luncher and install Unreal Engine 4.21.1
-2. Clone the repository and open trial01.uproject
+2. Clone the repository and open trial01.uproject wait for rebuild
+2.1. Right click on trial01.uproject, choose "Generate Visual Studio project Files"
 3. Click on Actors with Blueprints (the red things)
 4. Click on "Edit Blueprint" (the blue button) in "Details"
 5. Click on "Open Blueprint Editor" in the dropdown menu
